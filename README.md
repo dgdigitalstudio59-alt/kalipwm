@@ -1,40 +1,11 @@
-# KaliPWM
-
-Despliega un entorno de hacking profesional para Kali Linux ejecutando solo un script.
-
-![kalipwm-1](https://github.com/user-attachments/assets/0e11571f-7c71-416f-9bb8-32ab9c47d015)
-![kalipwm-2](https://github.com/user-attachments/assets/b67853d2-922d-4303-90a8-4fbc2564555a)
-
-## Instalación y uso
-
-- Se recomienda el uso de una instalación nueva/limpia de Kali Linux.
-- Testado en Kali Linux 2025.1 con VMware, VirtualBox y Bare Metal.
-
-```
-git clone https://github.com/afsh4ck/kalipwm.git
-cd kalipwm
-bash kalipwm.sh
-sudo reboot
-```
-- Una vez reiniciado cambia a bspwm en la pantalla de inicio de sesión
-- El fondo de pantalla se toma de ~/Wallpapers/wallpaper.*
-- Video completo del entorno: https://youtu.be/3clLjO8W7Q4?si=GupOi6Bqwuu2O9Wk
-
-## Comandos
-
+l
 > [!NOTE]
 > En MacOS, cambia Windows por Command, y Alt por Option.
 
 | Comando                     | Descripción                                                 |
 |-----------------------------|-------------------------------------------------------------|
-| Clic derecho en Polybar     | Cambia el tema de Polybar usando el menú del clic derecho   |
-| Windows + 1,2,3,4           | Navega entre escritorios                                    |
-| Windows + Enter             | Abre una nueva terminal                                     |
-| Windows + Enter             | Divide la terminal actual                                   |
-| Windows + Flechas           | Navega entre ventanas abiertas                              |
-| Windows + Tab               | Cambia entre los dos escritorios más recientes              |
-| Windows + + Shift + W       | Cierra la terminal actual                                   |
-| Windows + Alt + R           | Recarga el entorno de escritorio                            |
+| Clic derecho en Polybar     | Cambia el tema de Polybar usa          |
+| Windows + Flechas           | Navega entre ventanas abiertas                                   |
 | Windows + Alt + Q           | Reiniciar BSPWM                                             |
 | Windows + Alt + Flechas     | Redimensiona la ventana actual                              |
 | Windows + Shift + F         | Abre Firefox                                                |
